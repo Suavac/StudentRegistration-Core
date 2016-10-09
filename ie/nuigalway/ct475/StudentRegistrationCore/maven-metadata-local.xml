@@ -3,13 +3,14 @@
   <groupId>ie.nuigalway.ct475</groupId>
   <artifactId>StudentRegistrationCore</artifactId>
   <versioning>
-    <release>1.3</release>
+    <release>1.4</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
       <version>1.2</version>
       <version>1.3</version>
+      <version>1.4</version>
     </versions>
-    <lastUpdated>20161009182650</lastUpdated>
+    <lastUpdated>20161009195539</lastUpdated>
   </versioning>
 </metadata>
